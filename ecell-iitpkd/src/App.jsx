@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 
 import React from "react";
 import { Router,Route,Routes } from "react-router-dom";
-import AllEvents from "../components/pages/allevents.jsx";
+import AllEvents from "../components/pages/AllEvents.jsx";
 import Contacts from "../components/pages/Contacts.jsx";
 import './App.css'
 import RightNavBar from "../components/RightNavBar.jsx";

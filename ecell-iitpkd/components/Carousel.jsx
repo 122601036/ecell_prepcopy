@@ -13,7 +13,7 @@ import productLaunch from  "../src/assets/productLaunchChallenge.webp"
 // import idea from "../src/assets/ideathon.mp4";
 import readMore from "../src/assets/read-more.mp4";
 // import hackathonVideo from "../src/assets/hackathon.mp4";
-// import ideathon from '../src/assets/ideathon1.jpg'
+// import ideathon from '../src/assets/ideathon1.webp'
 import './carousel.css';
 const Carousel = () => {
   return (
